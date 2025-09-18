@@ -40,21 +40,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsingh2027&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavsingh2027&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsingh2027&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
----
 
 ## 📫 Connect with me
 
