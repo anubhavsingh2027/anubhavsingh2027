@@ -64,7 +64,8 @@
 * ⚡ Algorithm Optimization & Competitive Programming
 * 📱 Web Application Development
 * 🔒 Cybersecurity & Secure Coding Practices
-* 🎨 UI/UX & Frontend Creativity
+* 🤖 Artificial Intelligence
+* ⛓️ Blockchain
 
 ---
 
