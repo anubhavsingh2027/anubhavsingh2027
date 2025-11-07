@@ -48,8 +48,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavsingh2027&theme=tokyonight" width="500" />
+  <img src="https://streak-stats.demolab.com?user=anubhavsingh2027&theme=tokyonight&hide_border=true" width="500"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anubhavsingh2027&show_icons=true&theme=tokyonight" width="500" />
