@@ -1,59 +1,64 @@
 # 👋 Hi, I'm **Anubhav Singh**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F73A&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+MERN+Developer;Passionate+Coder+%26+Tech+Explorer;Competitive+Programmer;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F73A&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+MERN+Developer;Cybersecurity+Enthusiast;Competitive+Programmer;Always+Learning+and+Building" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | 🧠 Problem Solver | 🌍 Based in India</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anubhavsingh2027&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=anubhavsingh2027&label=Profile%20Views&color=00eaff&style=flat" />
 </p>
 
 ---
 
 ## 🔥 About Me
 
-- 🔭 Currently working on **PhishShield** (Cyber Safety Tool) & **KashiRoute** (Tours & Travel Platform)
-- 🌱 Learning **Blockchain • Web Security • System Design**
-- 💻 Skilled in:  
-  `C++` · `JavaScript` · `Node.js` · `Express` · `MongoDB` · `React` · `Python` · `Java`
-- ⭐ Passionate about **clean architecture**, **performance**, and **scalable web apps**
-- 💼 Open to **Freelance Projects** & **Full-time Roles**
-- 📫 Reach me at: **anubhavsingh2027@gmail.com**
-- 🌐 Portfolio: **https://anubhav.nav-code.com/**
+- 🔭 Building: **PhishShield** (Cyber Safety Tool) & **KashiRoute** (Tours & Travel Booking Platform)
+- 🌱 Currently learning: **System Design, Web Security, Blockchain**
+- 💻 Tech I use daily:  
+  `C++` `JavaScript` `Node.js` `Express` `MongoDB` `React` `Tailwind` `Python`
+- ⭐ I love writing **clean, scalable & optimized code**
+- 💼 Open for **Freelance & Full-Time** opportunities
+- 📫 **Email:** `anubhavsingh2027@gmail.com`
+- 🌐 **Portfolio:** https://anubhav.nav-code.com
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Live Link | Description |
+| Project | Live Demo | Description |
 |--------|-----------|-------------|
-| 🛡 **PhishShield** | https://phishshield.nav-code.com/ | Malicious website detection & phishing protection tool |
-| 🌍 **KashiRoute** | https://kashiroute.nav-code.com/ | Tour & travel booking platform — all trips start from Kashi |
-| 💬 **Real-Time Chat App** | https://real-time-chatting.nav-code.com/ | WebSocket based live messaging web app |
+| 🛡 **PhishShield** | https://phishshield.nav-code.com | Real-time phishing & unsafe website detection |
+| 🌍 **KashiRoute** | https://kashiroute.nav-code.com | Travel & car booking platform — all trips start from Kashi |
+| 💬 **Realtime Chat App** | https://real-time-chatting.nav-code.com | Live chat using WebSockets (Secure & Fast) |
 
-> Explore full source in pinned repositories 🔗
+> Explore more in my pinned repositories.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anubhavsingh2027&theme=tokyonight&hide_border=true" width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsingh2027&show_icons=true&theme=tokyonight&hide_border=true" width="500"/>
+</p>
+
+---
+
+## 🎲 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsingh2027&show_icons=true&theme=tokyonight" width="500" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="600" />
 </p>
 
 ---
@@ -70,21 +75,20 @@
 
 ---
 
-## 💡 Interests
+## ✨ Interests
 
 - Full Stack Web Development
 - Cybersecurity & Safe Web
 - Competitive Programming
-- Scalable System Architecture
-- AI / Blockchain Exploration
+- System Design & Performance
+- Blockchain & Future Web Technology
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-### ⭐ *Thanks for stopping by!*  
-If you like my work, consider **starring my repositories** and let's **collaborate**! 🚀
+### ⭐ If you like my work, **star my repositories** and let's **collaborate** 🚀
