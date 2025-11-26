@@ -69,7 +69,6 @@
   <a href="https://www.linkedin.com/in/anubhav-singh-09b71829b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/anubhav_singh_6966/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/anubhavsingh2027"><img src="https://img.shields.io/badge/HackerRank-239120?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/anubhavsingh2027"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://github.com/anubhavsingh2027"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
