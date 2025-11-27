@@ -14,8 +14,15 @@
 
 ---
 
-## 🔥 About Me  
+## 🔥 About Me
 
+<div style="position: relative;">
+
+<div align="right">
+  <img src="https://img.shields.io/badge/📋%20Copy%20Code-0D1117?style=for-the-badge&labelColor=1f1f1f&color=00f5d4" />
+</div>
+
+```js
 const anubhav = {
   name: "Anubhav Singh",
   location: "India 🇮🇳",
@@ -54,6 +61,8 @@ const anubhav = {
   funFact: "I debug faster with coffee ☕ and console.log() 🐍",
 };
 
+ ```
+</div>
 
 ---
 
