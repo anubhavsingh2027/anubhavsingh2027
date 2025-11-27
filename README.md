@@ -9,14 +9,7 @@
 
 
 <div align="center">
-  <img 
-    src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=👀%20Profile%20Views&labelColor=0d1117&countColor=00E7FF&style=flat-square" 
-    width="260" 
-    height="42"
-/>
-</div>
-
-
+  <<div align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=PROFILE+VIEWS&countColor=%2300F5FF&style=for-the-badge" /> </div>
 
 
 
