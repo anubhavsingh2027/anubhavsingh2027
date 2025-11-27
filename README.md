@@ -33,13 +33,13 @@ const anubhav = {
     "Blockchain"
   ],
 
-  languages: ["C++", "JavaScript", "TypeScript", "Python"],
+  languages: ["C++", "JavaScript", "Java", "Python" ,"C"],
 
   techStack: {
-    frontEnd: ["React", "Next.js", "TailwindCSS"],
+    frontEnd: ["React", "HTML", "Css", "TailwindCSS"],
     backEnd: ["Node.js", "Express.js"],
-    databases: ["MongoDB", "PostgreSQL"],
-    devOps: ["Docker", "Linux"],
+    databases: ["MongoDB", "MySql"],
+    devOps: ["Docker"],
     tools: ["Git", "Postman", "VS Code"]
   },
 
