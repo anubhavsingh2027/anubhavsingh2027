@@ -6,16 +6,10 @@
 
 <br>
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=Profile%20Views&labelColor=%2300E7FF&countColor=%2300ffbb&style=flat-square" />
-</p>
 
-<p align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/anubhavsingh2027" />
-</p>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=PROFILE+VIEWS&countColor=%2300F5FF&style=for-the-badge" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=PROFILE%20VIEWS&labelColor=%23091f36&countColor=%2300eaff&style=flat-square" />
 </div>
 
 
