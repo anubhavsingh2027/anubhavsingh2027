@@ -6,11 +6,9 @@
 
 <br><br>
 
-<img 
-  src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=👁️%20Views&labelColor=0d1117&countColor=00faff
-  " 
-  
-/>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=Views&labelColor=0d1117&countColor=00faff&style=flat" />
+</div>
 
 </div>
 
