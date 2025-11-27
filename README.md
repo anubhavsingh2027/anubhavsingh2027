@@ -51,7 +51,7 @@ I love solving real-world problems with code and continuously sharpening my engi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsing2027&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsingh2027&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
 </p>
 
 <p align="center">
