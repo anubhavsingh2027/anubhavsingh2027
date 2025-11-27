@@ -55,15 +55,6 @@ const anubhav = {
 };
 
 
-💡 Passionate about building **secure, scalable, and meaningful solutions.**  
-I enjoy solving real-world problems and continuously improving my engineering skillset.
-
-- 🧪 Currently Building: **PhishShield** (AI Cybersecurity Tool) & **KashiRoute** (Travel Tech Platform)  
-- 📚 Learning: **System Design, Web Security & Blockchain**
-- 💼 Open To: **Freelance, Internships & Full-Time Opportunities**
-- 📫 Email: `anubhavsingh2027@gmail.com`  
-- 🌍 Portfolio: **https://anubhav.nav-code.com**
-
 ---
 
 ## 🚀 Featured Projects  
