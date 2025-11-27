@@ -7,8 +7,11 @@
 <br>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=anubhavsingh2027&style=for-the-badge&color=blue&label=Visitors)
+  [Profile Views](https://komarev.com/ghpvc/?username=anubhavsingh2027&style=for-the-badge&color=blue&label=Visitors)
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anubhavsingh2027&style=for-the-badge&color=blue&label=Visitors">
+</div>
 
 
 
