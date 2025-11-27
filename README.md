@@ -9,7 +9,11 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=300&lines=👀+Profile+Views;Counting...;Visitors:+${anubhavsingh2027}" />
+  <img 
+    src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=👀%20Profile%20Views&labelColor=0d1117&countColor=00E7FF&style=flat-square" 
+    width="260" 
+    height="42"
+/>
 </div>
 
 
