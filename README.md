@@ -7,10 +7,19 @@
 <br>
 
 
-
 <div align="center">
-  <<div align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=PROFILE+VIEWS&countColor=%2300F5FF&style=for-the-badge" /> </div>
+  
+  <img 
+    src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=👁️%20Profile%20Views&labelColor=141414&countColor=00F5FF&style=flat-square" 
+    width="220"
+    height="40"
+  />
 
+  <br>
+
+  <img src="https://raw.githubusercontent.com/badge-ninja/badges/main/pulsebar/pulsebar-cyan.gif" width="140"/>
+
+</div>
 
 
 </div>
