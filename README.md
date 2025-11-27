@@ -9,17 +9,12 @@
 
 <div align="center">
 
-  <img 
-    src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=🔹%20PROFILE%20VIEWS&labelColor=000000&countColor=00E7FF&style=flat-square" 
-    width="260"
-    height="42"
-  />
-
-  <br>
-
-  <img src="https://raw.githubusercontent.com/badge-ninja/badges/main/waves/cyan-wave.gif" width="200" />
+<img
+  src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=Views&labelColor=1a1a1a&countColor=00faff&style=flat"
+/>
 
 </div>
+
 
 
 
