@@ -2,13 +2,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F779&center=true&vCenter=true&width=900&lines=👋+Hey+There!+I'm+Anubhav+Singh;Software+Engineer+⚙️;Full+Stack+MERN+Developer+🌐;Cybersecurity+Enthusiast+🛡️;Competitive+Programmer+💻;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F779&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Anubhav+Singh;Software+Engineer;Full+Stack+MERN+Developer;Cybersecurity+Enthusiast;Competitive+Programmer;Always+Learning+and+Building" />
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=anubhavsingh2027&label=Profile+Views&color=00eaff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=anubhavsingh2027&label=Profile+Views&color=00E7FF&style=for-the-badge"/>
 
 </div>
+
 
 ---
 
