@@ -7,9 +7,9 @@
 <br><br>
 
 <img 
-  src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=👁️%20Views&labelColor=0d1117&countColor=00faff&style=flat" 
-  width="200"
-  height="36"
+  src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=👁️%20Views&labelColor=0d1117&countColor=00faff
+  " 
+  
 />
 
 </div>
