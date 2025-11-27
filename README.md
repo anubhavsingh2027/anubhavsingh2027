@@ -1,25 +1,24 @@
 # 👋 Hey there! I'm **Anubhav Singh**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F73A&center=true&vCenter=true&width=900&lines=Software+Engineer+⚙️;Full+Stack+MERN+Developer+🌐;Cybersecurity+Enthusiast+🛡️;Competitive+Programmer+💻;Always+Learning,+Always+Building 🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&color=22F73A&lines=Software+Engineer+⚙️;Full+Stack+MERN+Developer+🌐;Cybersecurity+Enthusiast+🛡️;Competitive+Programmer+💻;Always+Learning+and+Building+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anubhavsingh2027&label=Profile%20Views&color=00eaff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=anubhavsingh2027&label=Profile%20Views&color=00eaff&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🔥 About Me  
 
-💡 Passionate about building **secure, scalable and impactful tech solutions.**  
-I love solving real-world problems with code and continuously sharpening my engineering mindset.
+💡 Passionate about building **secure, scalable, and meaningful solutions.**  
+I enjoy solving real-world problems and improving my engineering skills every day.
 
-- 🧪 Currently Building: **PhishShield** (Cybersecurity AI Tool) & **KashiRoute** (Travel Tech Platform)
+- 🧪 Building: **PhishShield** (Cybersecurity AI Tool) & **KashiRoute** (Travel Tech Platform)
 - 📚 Learning: **System Design, Web Security, Blockchain**
-- 🧠 Focus Areas: **Performance, Security & User Experience**
-- 💼 Open to: **Freelance, Internships & Full-Time Roles**
-- 📫 Email: **anubhavsingh2027@gmail.com**
+- 💼 Open To: **Freelance, Internships & Full-Time Roles**
+- 📫 Email: `anubhavsingh2027@gmail.com`  
 - 🌍 Portfolio: **https://anubhav.nav-code.com**
 
 ---
@@ -29,10 +28,10 @@ I love solving real-world problems with code and continuously sharpening my engi
 | Project | Live Demo | Description |
 |--------|-----------|-------------|
 | 🛡 **PhishShield** | https://phishshield.nav-code.com | AI-powered phishing detection & cybersecurity tool |
-| 🌍 **KashiRoute** | https://kashiroute.nav-code.com | Travel booking platform for trips originating from Kashi |
-| ⚡ **Realtime Chat App** | https://real-time-chatting.nav-code.com | Secure live chat built with WebSockets |
+| 🌍 **KashiRoute** | https://kashiroute.nav-code.com | Travel booking platform for tourism originating from Kashi |
+| ⚡ **Realtime Chat App** | https://real-time-chatting.nav-code.com | Fast & secure real-time chat built using WebSockets |
 
-> 🔎 More projects available in my pinned repositories.
+> 🔎 More in pinned repositories.
 
 ---
 
@@ -47,11 +46,11 @@ I love solving real-world problems with code and continuously sharpening my engi
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anubhavsingh2027&theme=tokyonight&hide_border=true" width="450" />
+  <img src="https://streak-stats.demolab.com?user=anubhavsingh2027&theme=tokyonight&hide_border=true" width="430" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsingh2027&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsingh2027&show_icons=true&theme=tokyonight&hide_border=true" width="430" />
 </p>
 
 <p align="center">
@@ -63,7 +62,7 @@ I love solving real-world problems with code and continuously sharpening my engi
 ## 🎲 3D Contribution Graph  
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="600" />
+  <img src="https://raw.githubusercontent.com/anubhavsingh2027/anubhavsingh2027/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" />
 </p>
 
 ---
@@ -81,18 +80,18 @@ I love solving real-world problems with code and continuously sharpening my engi
 
 ## ✨ Interests  
 
-- Full Stack Product Engineering  
-- Cybersecurity & Ethical Development  
+- Full-Stack Product Engineering  
+- Cybersecurity / Ethical Web  
 - Competitive Programming  
-- System Architecture & DevOps  
+- DevOps & High-Scalability Systems  
 - Blockchain & Future Web Technology  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 </p>
 
 ---
 
-### ⭐ If you enjoy my work, consider **starring my repositories** — let's build something great together! 🚀
+### ⭐ If my work inspires you, consider **starring my repositories** and let’s collaborate! 🚀
