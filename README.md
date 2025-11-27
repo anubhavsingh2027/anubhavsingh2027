@@ -10,7 +10,7 @@
 <div align="center">
 
 <img
-  src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=Views&labelColor=1a1a1a&countColor=00faff&style=flat" style="height: 50px; width: 100px;"
+  src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=Views&labelColor=1a1a1a&countColor=00faff&style=flat" style="height: 80px; width: 200px;"
 />
 
 </div>
