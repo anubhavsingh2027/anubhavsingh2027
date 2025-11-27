@@ -16,6 +16,45 @@
 
 ## 🔥 About Me  
 
+const anubhav = {
+  name: "Anubhav Singh",
+  location: "India 🇮🇳",
+  role: "Full Stack Developer & Cybersecurity Enthusiast",
+
+  currentFocus: [
+    "MERN Stack",
+    "System Design",
+    "Web Security",
+    "Blockchain"
+  ],
+
+  languages: ["C++", "JavaScript", "TypeScript", "Python"],
+
+  techStack: {
+    frontEnd: ["React", "Next.js", "TailwindCSS"],
+    backEnd: ["Node.js", "Express.js"],
+    databases: ["MongoDB", "PostgreSQL"],
+    devOps: ["Docker", "Linux"],
+    tools: ["Git", "Postman", "VS Code"]
+  },
+
+  hobbies: [
+    "Building side projects",
+    "Competitive Programming",
+    "Breaking & Securing Web Apps"
+  ],
+
+  askMeAbout: [
+    "Web Development",
+    "Cybersecurity",
+    "API Design",
+    "Performance Optimization"
+  ],
+
+  funFact: "I debug faster with coffee ☕ and console.log() 🐍",
+};
+
+
 💡 Passionate about building **secure, scalable, and meaningful solutions.**  
 I enjoy solving real-world problems and continuously improving my engineering skillset.
 
