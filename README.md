@@ -8,18 +8,19 @@
 
 
 <div align="center">
-  
+
   <img 
-    src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=👁️%20Profile%20Views&labelColor=141414&countColor=00F5FF&style=flat-square" 
-    width="220"
-    height="40"
+    src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=🔹%20PROFILE%20VIEWS&labelColor=000000&countColor=00E7FF&style=flat-square" 
+    width="260"
+    height="42"
   />
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/badge-ninja/badges/main/pulsebar/pulsebar-cyan.gif" width="140"/>
+  <img src="https://raw.githubusercontent.com/badge-ninja/badges/main/waves/cyan-wave.gif" width="200" />
 
 </div>
+
 
 
 </div>
