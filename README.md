@@ -9,8 +9,9 @@
 
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=PROFILE%20VIEWS&labelColor=%23091f36&countColor=%2300eaff&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=300&lines=👀+Profile+Views;Counting...;Visitors:+${anubhavsingh2027}" />
 </div>
+
 
 
 
