@@ -1,0 +1,30 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='260' viewBox='0 0 1000 260'>
+  <defs>
+    <linearGradient id='grad' x1='0' x2='1'>
+      <stop offset='0' stop-color='#00F779' stop-opacity='0.35'/>
+      <stop offset='1' stop-color='#00D4FF' stop-opacity='0.35'/>
+    </linearGradient>
+    <filter id='blur' x='-50%' y='-50%' width='200%' height='200%'>
+      <feGaussianBlur stdDeviation='25' result='blur'/>
+    </filter>
+  </defs>
+
+  <rect width='1000' height='260' fill='#0d1117'/>
+
+  <g filter='url(#blur)'>
+    <ellipse cx='200' cy='80' rx='260' ry='60' fill='url(#grad)'/>
+  </g>
+
+  <rect x='40' y='40' width='920' height='180' rx='25'
+        fill='rgba(255,255,255,0.06)' stroke='rgba(255,255,255,0.12)' stroke-width='1.5'/>
+
+  <text x='50%' y='120' font-family='Fira Code, monospace' font-size='38'
+        font-weight='700' fill='white' text-anchor='middle'>
+    Anubhav Singh — Full Stack & Cybersecurity
+  </text>
+
+  <text x='50%' y='165' font-family='Inter, sans-serif' font-size='20'
+        fill='#B8FFE6' text-anchor='middle'>
+    MERN • System Design • Web Security • Competitive Programming
+  </text>
+</svg>
