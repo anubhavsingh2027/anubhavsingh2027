@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- 👁️ Profile Views -->
-<img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=Profile%20Views&labelColor=0d1117&countColor=00faff&style=flat-square" style="height: 35px; width: 115px;" />
+<img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=Profile%20Views&labelColor=0d1117&countColor=00faff&style=flat-square" style="height: 45px; width: 135px;" />
 
 <br/><br/>
 
