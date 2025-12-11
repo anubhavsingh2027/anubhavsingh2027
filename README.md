@@ -14,6 +14,11 @@
 
 ---
 
+<a href="https://app.chatting.nav-code.com/detector/newUser/github" target="_blank">
+  <img src="https://img.shields.io/badge/Click%20to%20View%20Stats-blue" />
+</a>
+
+
 ## 🔥 About Me
 
 <div style="position: relative;">
@@ -137,4 +142,4 @@ const anubhav = {
 
 ### ⭐ If my work inspires you, consider **starring my repositories** and let's collaborate! 
 
-![Thank You For Visit My GitHub](https://app.chatting.nav-code.com/detector/newUser/Github)
+
