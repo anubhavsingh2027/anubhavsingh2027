@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- 🔮 Glassmorphism Banner (replace with your hosted image if needed) -->
-<img src="https://raw.githubusercontent.com/anubhavsingh2027/anubhavsingh2027/main/assets/glass-banner.svg" width="100%" />
+<img src="https://github.com/anubhavsingh2027/anubhavsingh2027/blob/main/assests/glass-banner.svg" width="100%" />
 
 <br/>
 
@@ -151,6 +151,6 @@ const anubhav = {
 ---
 
 ### ⭐ If my work inspires you, consider **starring my repositories** and let's collaborate!
+![Thank You For Visit My GitHub](https://app.chatting.nav-code.com/detector/newUser/Github)
 
 ---
-
