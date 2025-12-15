@@ -79,7 +79,7 @@ const anubhav = {
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 | Project | Live Demo | Description |
 |--------|-----------|-------------|
@@ -91,7 +91,7 @@ const anubhav = {
 
 ---
 
-## 🛠 Tech Stack & Tools  
+## 🛠 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,linux,vscode,docker" />
@@ -99,7 +99,7 @@ const anubhav = {
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anubhavsingh2027&theme=tokyonight&hide_border=true" width="430"/>
@@ -115,7 +115,7 @@ const anubhav = {
 
 ---
 
-## 🎲 3D Contribution Graph  
+## 🎲 3D Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anubhavsingh2027/anubhavsingh2027/main/profile-3d-contrib/profile-night-rainbow.svg" width="600"/>
@@ -123,7 +123,7 @@ const anubhav = {
 
 ---
 
-## 🤝 Connect With Me  
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhav-singh-09b71829b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -134,13 +134,13 @@ const anubhav = {
 
 ---
 
-## ✨ Interests  
+## ✨ Interests
 
-- Full-Stack Product Engineering  
-- Cybersecurity & Ethical Web  
-- Competitive Programming  
-- DevOps & High-Scalability Systems  
-- Blockchain & Future Web Technology  
+- Full-Stack Product Engineering
+- Cybersecurity & Ethical Web
+- Competitive Programming
+- DevOps & High-Scalability Systems
+- Blockchain & Future Web Technology
 
 ---
 
@@ -150,5 +150,7 @@ const anubhav = {
 
 ---
 
-### ⭐ If my work inspires you, consider **starring my repositories** and let's collaborate! 
+### ⭐ If my work inspires you, consider **starring my repositories** and let's collaborate!
+
+---
 
