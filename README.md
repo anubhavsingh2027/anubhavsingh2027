@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- 🔮 Glassmorphism Banner (replace with your hosted image if needed) -->
-<img src="https://github.com/anubhavsingh2027/anubhavsingh2027/blob/main/assests/glass-banner.svg" width="100%" />
+<img src="https://anubhav.nav-code.com/image/anubhavBanner.png" width="100%" />
 
 <br/>
 
