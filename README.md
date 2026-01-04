@@ -7,17 +7,17 @@
 
 <br/>
 
-<!-- ✨ Animated Intro Text -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F779&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Anubhav+Singh;Software+Engineer;Full+Stack+MERN+Developer;Cybersecurity+Enthusiast;Competitive+Programmer;Always+Learning+and+Building" />
 
 <br/><br/>
 
-<!-- 👁️ Profile Views -->
+
 <img src="https://api.visitorbadge.io/api/visitors?path=anubhavsingh2027&label=Profile%20Views&labelColor=0d1117&countColor=00faff&style=flat-square" style="height: 45px; width: 185px;" />
 
 <br/><br/>
 
-<!-- 📊 Tracking Stats Button -->
+
 <a href="https://app.chatting.nav-code.com/detector/newUser/github" target="_blank">
   <img src="https://img.shields.io/badge/Click%20to%20View%20Visit%20Stats-00D0FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
